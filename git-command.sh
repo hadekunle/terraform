@@ -1,6 +1,6 @@
 
 
-git add /Users/user/Desktop/AWS-COURSE/terraform_kode_kloud_github/tf/*
+git add /Users/user/Desktop/AWS-COURSE/terraform_kode_kloud_github/tf/
 git commit -m "terraform"
 git push
 
