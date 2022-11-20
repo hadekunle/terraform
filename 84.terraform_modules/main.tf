@@ -8,3 +8,9 @@ module "iam_iam-user" {
   create_iam_access_key = "false"
   create_iam_user_login_profile = "false"
 }
+
+
+
+
+
+# https://registry.terraform.io/modules/terraform-aws-modules/iam/aws/latest/submodules/iam-user?tab=inputs
